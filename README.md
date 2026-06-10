@@ -6,7 +6,7 @@ Personal portfolio website built with the [Hyperspace](https://html5up.net/hyper
 
 ## 🌐 Live Site
 
-> _Add your deployment URL here (GitHub Pages, Netlify, etc.)_
+> https://antonio-sicardo.github.io/
 
 ---
 
